@@ -1,0 +1,33 @@
+COSMOS:: Internet of Blockchains
+
+Open Source Tools:: TinderMint, Cosmos SDK, IBC
+
+Initially, No Intercommunication process between the Blockchains. Limited No. of TXNs per Second.
+
+To build Custom, secure & interoperable Blockchains
+
+TinderMint ==> Network+Consensus Packages are pre-built, enabling the applications systems to be built by the developers which will be executed using Etherium Virtual Machine
+
+TinderMint Enginer is connected to a application by a socket programming called ABCI(Application Blockchain Interface)
+
+To Build Application Layer for the Custom Blockchain, We need Cosmos SDK to build on top of TinderMint BFT Engine
+
+COSMOS SDK::
+	- Offers Code Modularity
+	- Enhanced Security
+	- We use this SDK as We Couldn't build ABCI from scratch jst for our custom blockchain(Saves Dev Efforts & Time).
+
+In other words, Cosmos is an ecosystem of blockchains
+Blockchain
+A blockchain can be described as a distributed digital ledger maintained by a set of validators that remains correct even if some of the validators (less than a third) are malicious.
+
+ that can scale and interoperate with each other. Before Cosmos, blockchains were siloed and unable to communicate with each other. They were hard to build and could only handle a small amount of transactions per second. Cosmos solves these problems with a new technical vision. In order to understand this vision we need to go back to the fundamentals of blockchain technology.
+
+
+ At the time, there were two options to develop decentralized applications: either fork the bitcoin codebase or build on top of it. However, the bitcoin codebase was very monolithic; all three layers—networking, consensus and application — were mixed together. Additionally, the Bitcoin scripting language was limited and not user-friendly.
+
+
+ Layers in Blockchain:
+ 	- Network
+ 	- Consensus
+ 	- Application 
