@@ -1,1 +1,9 @@
-A Smart Contract is a piece of codedeployed in the Blockchain node. Execution of a smart contract is initiated by a message embedded in a transaction
+	- Blockchain is a peer-to-peer, distributed ledger that is cryptographically-secure, append-only, immutable (extremely hard to change), and updateable only via consensus or agreement among peers.
+
+	- Blockchain Systems Engineering => Information Security + Cryptography + Distributed Database Systems
+	
+	- A Smart Contract is a piece of codedeployed in the Blockchain node. Execution of a smart contract is initiated by a message embedded in a transaction
+
+	- CAP Theorem => Consistency, Availability, Partioning.
+
+	- Core Data Structures in Blockchain => Merkle Trees, Hash Functions , Hash Chains
